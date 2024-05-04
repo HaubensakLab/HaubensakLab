@@ -1,4 +1,4 @@
-- 👋 Hi, We are the lab of **Affective neuroscience**, located at the Center for Brain Research @Medical University of Vienna. 
+- 👋 Hi, We are a lab focusing on **Affective neuroscience**, located at the Center for Brain Research @Medical University of Vienna. 
 - 👀 We study the circuit mechanisms of affect 🧠.
 - 📫 How to reach us: wulf.haubensak@meduniwien.ac.at or office-haubensak@meduniwien.ac.at
 - ⚡ Check our socials: @haubensaklab.bsky.social and [Twitter](@HaubensakL)
